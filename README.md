@@ -1,24 +1,14 @@
 # spotify-sessions-reloaded
 
-## Project setup
-```
-npm install
-```
+## Project Idea
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Webapp building and improving upon the existing "Spotify Sessions" feature.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Improvements
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+  - more stability
+  - ordered Queues
+  - better UI
+  
+ 
